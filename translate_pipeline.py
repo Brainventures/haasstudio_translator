@@ -1,7 +1,3 @@
-"""
-번역 파이프라인 : 문장 입력 -> 사전 번역 -> 문장 번역
-"""
-
 from pretrans import pre_translate
 import torch
 import streamlit as st
