@@ -11,7 +11,7 @@ prompt> sh install_libs.sh
 ### **2. Models Download**
 
 - 리눅스/Mac 사용 시 : `prompt> sh download_models.sh`
-- 그 외 : [다운로드](https://drive.google.com/file/d/19lcFLwa2NNGi7ATLRUy6nZfarMqULMop/view?usp=sharing)
+- 그 외 : [다운로드](https://drive.google.com/file/d/1bQ7cm136TR4diOYE_gRmz-jUrNOsX6QX/view?usp=sharing)
 - 다운로드 받은 후 해당 폴더(translate_pipeline)에 압축 해제
 
 ### **3. Run streamlit**
@@ -19,9 +19,3 @@ prompt> sh install_libs.sh
 ```shell
 streamlit run translate_pipeline.py
 ```
-
-<br/><br/>
-
-## 화면 예시
-
-![image](https://user-images.githubusercontent.com/52812181/141072396-2ef2d462-5a3e-4f89-b37f-90dadd7144ac.png)
