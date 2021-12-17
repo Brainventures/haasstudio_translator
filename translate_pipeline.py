@@ -54,4 +54,7 @@ if text:
                     output_sentence.append(word)
             except:
                 output_sentence.append(word)
-    st.write(output_sentence)
+                
+    ret = ''.join(output_sentence)
+    st.write(ret)
+
