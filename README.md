@@ -19,4 +19,4 @@ prompt> sh install_libs.sh
 streamlit run translate_pipeline.py
 ```
 
-d
+
